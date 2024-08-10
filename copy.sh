@@ -3,7 +3,7 @@
 FILES_AND_DIRECTORIES=(
     "l10n.yaml"
     "assets"
-    "font"
+    "fonts"
     "lib"
     "pubspec.yaml"
 )
